@@ -1,6 +1,6 @@
 - description: A 
   icon: img/dataset.png
-  id: omni-data-py
+  folder: omni-data-py
   name: omb dataset
   variables:
     benchmark_name:
@@ -28,7 +28,7 @@
       description: (optional) Tissue/ cell line used to generate the data.
 - description: A 
   icon: img/processing.png
-  id: omni-processed-py
+  folder: omni-processed-py
   name: omb processing
   variables:
     benchmark_name:
@@ -47,7 +47,7 @@
       description: Long, human readable project title.
 - description: A 
   icon: img/method.png
-  id: omni-method-py
+  folder: omni-method-py
   name: omb method
   variables:
     benchmark_name:
@@ -66,7 +66,7 @@
       description: Long, human readable project title.
 - description: A 
   icon: img/parameter.png
-  id: omni-param-py
+  folder: omni-param-py
   name: omb parameter space
   variables:
     benchmark_name:
@@ -85,7 +85,7 @@
       description: Long, human readable project title.
 - description: A 
   icon: img/metric.png
-  id: omni-metric-py
+  folder: omni-metric-py
   name: omb metric
   variables:
     benchmark_name:
